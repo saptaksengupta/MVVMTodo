@@ -8,6 +8,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.23020833333333332" />
+        <entry key="app/src/main/res/layout/fragment_add_edit_task.xml" value="0.23020833333333332" />
+        <entry key="app/src/main/res/layout/fragment_todo_list.xml" value="0.23020833333333332" />
         <entry key="app/src/main/res/layout/list_item.xml" value="0.19630192502532928" />
         <entry key="app/src/main/res/layout/todo_list.xml" value="0.30118912397357595" />
       </map>
