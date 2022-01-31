@@ -23,8 +23,6 @@ abstract class TaskDatabase : RoomDatabase() {
 
             val dao = database.get().taskDao()
 
-//            launch a scope to access dao suspend functions
-
             applicationScope.launch {
                 dao.insert(Task("First task to be completed"))
                 dao.insert(Task("Second task to be completed"))
@@ -32,7 +30,6 @@ abstract class TaskDatabase : RoomDatabase() {
                 dao.insert(Task("Fourth task to be completed", completed = true))
                 dao.insert(Task("Fifth task to be completed"))
             }
-
         }
     }
 }

@@ -10,7 +10,9 @@
       <map>
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.23020833333333332" />
         <entry key="app/src/main/res/layout/fragment_add_edit_task.xml" value="0.23020833333333332" />
+        <entry key="app/src/main/res/layout/fragment_tasks.xml" value="0.296195652173913" />
         <entry key="app/src/main/res/layout/fragment_todo_list.xml" value="0.23020833333333332" />
+        <entry key="app/src/main/res/layout/item_task.xml" value="0.4036458333333333" />
         <entry key="app/src/main/res/layout/list_item.xml" value="0.19630192502532928" />
         <entry key="app/src/main/res/layout/todo_list.xml" value="0.30118912397357595" />
       </map>
